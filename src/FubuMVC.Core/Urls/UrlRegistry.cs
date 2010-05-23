@@ -6,6 +6,7 @@ using System.Reflection;
 using FubuCore.Reflection;
 using FubuCore.Util;
 using FubuCore;
+using FubuMVC.Core.Registration.Nodes;
 
 namespace FubuMVC.Core.Urls
 {
